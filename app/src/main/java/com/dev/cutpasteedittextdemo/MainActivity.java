@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.Toast;
 
+/* used fHate answer https://stackoverflow.com/questions/31668011/how-to-detect-the-paste-event-in-editext-of-the-application*/
 public class MainActivity extends AppCompatActivity {
     public GoEditText etData;
     @Override
